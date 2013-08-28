@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: hoomanlogic
+Version: 0.1.0
+Summary: Framework for building interfaces that accept text-based human language input.
+Home-page: http://github.com/hoomanlogic/hoomanlogic/
+Author: Geoffrey Floyd
+Author-email: geoffrey.floyd@hoomanlogic.com
+License: Apache Software License v2.0
+Download-URL: http://github.com/hoomanlogic/hoomanlogic/
+Description: Framework for building interfaces that accept text-based human language input.
+Platform: Any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
