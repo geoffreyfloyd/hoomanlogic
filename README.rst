@@ -31,7 +31,7 @@ Implementing hoomanlogic
 How to use hoomanlogic:
 
 
-    - Decorate functions with @hoomancando to give it a wrapper for building the parameter args based from text-based
+    - Decorate functions with @hoomancando to give it a wrapper that builds the parameter args from text-based
       input.
     - Decorate classes with @hoomaninterface that contain functions decorated with @hoomancando. The parent class can
       be decorated to give all inherited classes the necessary attributes and functions.
@@ -58,7 +58,7 @@ Notes
 =====
 
 In its current state, it is limited in the recognition of human input, and is more akin to an intuitive command-line
-format than actual human language input in full sentence structure, but the framework is built the future of this in
+format than actual human language input in full sentence structure, but the framework is built with this in
 mind, and as the framework becomes more 'intelligent', projects that implement this will need only minimal, if any,
 changes to their code.
 
